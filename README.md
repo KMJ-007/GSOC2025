@@ -132,4 +132,4 @@ This work represents an important step toward making automatic differentiation i
 
 ## Acknowledgments
 
-Special thanks to my mentors **Johannes Doerfert** ([@jdoerfert](https://github.com/jdoerfert)), **Manuel Drehwald** ([@ZuseZ4](https://github.com/ZuseZ4)), and **Kevin Sala** ([@kevinsala](https://github.com/kevinsala)) for guidance on Enzyme integration and performance priorities. Special appreciation to **Jubilee** ([@workingjubilee](https://github.com/workingjubilee)) for her help whenever I was stuck. Thanks to **LLVM Compiler Infrastructure** and **Google** for supporting this work through GSoC.
+Special thanks to my mentors **Johannes Doerfert** ([@jdoerfert](https://github.com/jdoerfert)), **Manuel Drehwald** ([@ZuseZ4](https://github.com/ZuseZ4)), and **Kevin Sala** ([@kevinsala](https://github.com/kevinsala)) for guidance on Enzyme integration and performance priorities. Special appreciation to **Jubilee** ([@workingjubilee](https://github.com/workingjubilee)) for help whenever I was stuck. Thanks to **LLVM Compiler Infrastructure** and **Google** for supporting this work through GSoC.
